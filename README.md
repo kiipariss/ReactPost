@@ -1,4 +1,4 @@
-https://kiipariss.github.io/posts
+https://kiipariss.github.io/ReactPost/
 
 Мой тренировачный проект с импользованием:
 
